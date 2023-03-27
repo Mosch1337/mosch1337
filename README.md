@@ -2,5 +2,4 @@
   <h1 align="center">Welcome to my profile!</h1>
 <p/>
 
-<p align="center">My name is Mosch and I am a self-taught software developer and reverse engineer from Germany. I am mainly focused on learning C++ and C. I am very interested in gamehacking, especially Counter-Strike: Global Offensive, but I am also interested in other games. I am open to new projects. You can see my projects in the repository tab on my Github page.</p>
-  
+<p align="center">GameSense has alwavs been and alwavs will be the greatest cheat of all time. One reason it may feel worse is because there was an invite wave recentlv and more people are using it. It's unreasonable to expect that 100% of your shots will hit and that you will never die. I assure you that with a proper configuration you will always go positive against other cheats.</p>
